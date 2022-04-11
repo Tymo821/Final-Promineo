@@ -1,0 +1,24 @@
+footer {
+   border-style: double;
+   color: antiquewhite !important;
+}
+
+
+h5 {
+    text-decoration: underline;
+    text-shadow: 10ex;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+p {
+    
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important
+   
+}
+
+
+
+a {
+    color: rgb(255, 255, 52);
+}
